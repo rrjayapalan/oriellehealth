@@ -29,7 +29,7 @@ export default function Home() {
         <div className="absolute inset-0 bg-gradient-to-br from-turquoise via-white to-teal opacity-95" />
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_left,rgba(255,255,255,0.3),transparent_60%)]" />
         <div className="relative z-10 max-w-3xl">
-          <h1 className="text-5xl md:text-6xl font-serif text-white drop-shadow-md mb-6">
+         <h1 className="text-red-600 text-5xl font-bold">
             Clinician-led on-site wound care, clinical and nursing care
           </h1>
           <p className="text-lg md:text-xl text-white/90 mb-10 leading-relaxed">
